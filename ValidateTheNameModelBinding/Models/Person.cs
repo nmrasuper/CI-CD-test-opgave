@@ -2,8 +2,8 @@
 {
   public class Person
   {
-    // private FirstName firstName;
-    // private LastName lastName;
+    private FirstName firstName;
+    private LastName lastName;
 
     public Person(FirstName firstName, LastName lastName)
     {
